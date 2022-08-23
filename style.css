@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    text-align: center;
+}
+.main{
+    display: flex;
+    margin: 0 100px;
+    margin-right: 300px;
+}
+.Product_Image{
+    border: 1px solid rgb(205, 201, 201);
+}
+img{
+    width: 20vw;
+    height: 60vh;
+}
+.Product_Details{
+    margin: 20px;
+}
+.span{
+    margin: 10px 0;
+    color: grey;
+}
+.price{
+    display: flex;
+    margin: 10px 0;
+}
+strike{
+    margin: 0 10px;
+}
+#off{
+    font-weight: 500;
+    color: green;
+}
+th,td{
+    text-align: left;
+}
+th{
+    padding-right: 30px;
+}
+.radio{
+    display: inline;
+    margin-right: 10px;
+}
+.size{
+    margin: 20px 0;
+}
+.btn{
+    margin: 20px 0;
+}
+button{
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+}
+#btn1{
+    margin-right: 20px;
+    color: white;
+    background-color: rgb(103, 103, 248);
+}
+#btn1:hover{
+    background-color: rgb(36, 36, 176);
+}
+#btn2{
+    background-color: rgb(255, 251, 251);
+    border: 1px solid rgb(185, 185, 185);
+}
+#btn2:hover{
+    background-color: rgb(185, 171, 171);
+}
